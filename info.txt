@@ -1,0 +1,7 @@
+SN:        89610180000594481052
+Status:    OK
+Tenant:    eliseajay
+Username:  device_diesel
+Password:  wfQv8lv6jY
+Name:      diesel
+ID:        161311
